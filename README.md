@@ -1,4 +1,5 @@
 Welcome to my Github! 👋
+
 Hi! My name is João Gabriel, but you can call me **Spinelli** (He/Him)!
 
 I’m a technology enthusiast, a amateur chef, and a noob pianist (started to learn in 2021).
