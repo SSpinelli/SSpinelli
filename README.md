@@ -2,7 +2,7 @@ Welcome to my Github! 👋
 
 Hi! My name is João Gabriel, but you can call me **Spinelli** (He/Him)!
 
-I’m a technology enthusiast, a amateur chef, and a noob pianist (started to learn in 2021).
+I’m a technology enthusiast, a geek, a amateur chef, and a noob pianist (started to learn in 2021).
 
 Since august 2021, i started my journey to become a fullStack Dev Jr at Trybe!, as of now we just started the back-end module.
 
