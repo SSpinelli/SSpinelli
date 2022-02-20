@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SQL, MongoDB and Node.JS**
 
-- 👨‍💻 All of my projects are available at [https://sspinelli.github.io/](https://sspinelli.github.io/)
+- 👨‍💻 All of my projects are available at [https://sspinelli.github.io/](https://sspinelli.github.io/) (mobile friendly to be launch in 27/02) (currently rebuilding in React.js)
 
 - 💬 Ask me about **technology, food, music or anything geekish!**
 
