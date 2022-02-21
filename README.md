@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Gabriel, but you can call me Spinelli (He/Him)!</h1>
-<h3 align="center">I’m a technology enthusiast, a geek, an amateur chef, and a noob pianist (started to learn in 2021) from Brazil!</h3>
+<h3 align="center">I’m a technology enthusiast, a geek, an amateur chef, and a noob pianist from Brazil!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sspinelli&label=Profile%20views&color=0e75b6&style=flat" alt="sspinelli" /> </p>
 
