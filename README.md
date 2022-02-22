@@ -4,18 +4,18 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sspinelli&label=Profile%20views&color=0e75b6&style=flat" alt="sspinelli" /> </p>
 
 <p align="center">
-- 🔭 I’m currently working on **Several projects on my year long training to become a fullStack developer at @trybe**
-
-- 🌱 I’m currently learning **SQL, MongoDB and Node.JS**
-
-- 👨‍💻 All of my projects are available at [https://sspinelli.github.io/](https://sspinelli.github.io/) (mobile friendly to be launch in 27/02) (currently rebuilding in React.js)
-
-- 💬 Ask me about **technology, food, music or anything geekish!**
-
-- 📫 How to reach me **jgsspinelli92@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/jgsspinelli/](https://www.linkedin.com/in/jgsspinelli/)
-  </p>
+- 🔭 I’m currently working on **Several projects on my year long training to become a fullStack developer at @trybe** </p>
+<p align="center">
+- 🌱 I’m currently learning **SQL, MongoDB and Node.JS** </p>
+<p align="center">
+- 👨‍💻 All of my projects are available at [https://sspinelli.github.io/](https://sspinelli.github.io/) (mobile friendly to be launch in 27/02) (currently rebuilding in React.js)</p>
+<p align="center">
+- 💬 Ask me about **technology, food, music or anything geekish!**</p>
+<p align="center">
+- 📫 How to reach me **jgsspinelli92@gmail.com**</p>
+<p align="center">
+- 📄 Know about my experiences [https://www.linkedin.com/in/jgsspinelli/](https://www.linkedin.com/in/jgsspinelli/)</p>
+  
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
