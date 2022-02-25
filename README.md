@@ -4,15 +4,15 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sspinelli&label=Profile%20views&color=0e75b6&style=flat" alt="sspinelli" /> </p>
 
 <p align="left">
-- 🔭 I’m currently working on **Several projects on my year long training to become a fullStack developer at @trybe** </p>
+- 🔭 I’m currently working on Several projects on my year long training to become a fullStack developer at @trybe </p>
 <p align="left">
-- 🌱 I’m currently learning **SQL, MongoDB and Node.JS** </p>
+- 🌱 I’m currently learning SQL, MongoDB and Node.JS </p>
 <p align="left">
 - 👨‍💻 All of my projects are available at [https://sspinelli.github.io/](https://sspinelli.github.io/) (mobile friendly to be launch in 27/02) (currently rebuilding in React.js)</p>
 <p align="left">
-- 💬 Ask me about **technology, food, music or anything geekish!**</p>
+- 💬 Ask me about technology, food, music or anything geekish!</p>
 <p align="left">
-- 📫 How to reach me **jgsspinelli92@gmail.com**</p>
+- 📫 How to reach me jgsspinelli92@gmail.com</p>
 <p align="left">
 - 📄 Know about my experiences [https://www.linkedin.com/in/jgsspinelli/](https://www.linkedin.com/in/jgsspinelli/)</p>
   
