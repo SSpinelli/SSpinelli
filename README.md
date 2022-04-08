@@ -8,7 +8,7 @@
 <p align="left">
 - 🌱 I’m currently learning SQL, MongoDB and Node.JS </p>
 <p align="left">
-- 👨‍💻 All of my projects are available at [https://sspinelli.github.io/](https://sspinelli.github.io/) (mobile friendly to be launch in 27/03) (currently rebuilding in React.js)</p>
+- 👨‍💻 All of my projects are available at [https://sspinelli.github.io/](https://sspinelli.github.io/) (not mobile friendly still) (currently rebuilding in React.js)</p>
 <p align="left">
 - 💬 Ask me about technology, food, music or anything geekish!</p>
 <p align="left">
