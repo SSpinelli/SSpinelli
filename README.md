@@ -6,7 +6,7 @@
 <p align="left">
 - 🔭 I’m currently working on Several projects on my year long training to become a fullStack developer at @trybe </p>
 <p align="left">
-- 🌱 I’m currently learning SQL, MongoDB and Node.JS </p>
+- 🌱 I’m currently Python </p>
 <p align="left">
 - 💬 Ask me about technology, food, music or anything geekish!</p>
 <p align="left">
