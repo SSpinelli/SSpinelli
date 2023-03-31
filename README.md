@@ -36,4 +36,4 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sspinelli&show_icons=true&locale=en" alt="sspinelli" /></p>
 
 
-Disclaimer: By no means i'am an expert in all those languages and tools, i put here something that i had some experience building something with.
+Disclaimer: By no means i am an expert in all those languages and tools, i put here something that i had some experience building something with.
