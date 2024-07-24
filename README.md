@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sspinelli&label=Profile%20views&color=0e75b6&style=flat" alt="sspinelli" /> </p>
 
 <p align="left">
-- 🔭 I’m currently doing the RocketSeat Ignite Course, and some Udemy Courses </p>
+- 🔭 I’m currently doing the Full Cycle Course, and curso.dev </p>
 <p align="left">
 - 💬 Ask me about technology, food, music or anything geekish!</p>
 <p align="left">
