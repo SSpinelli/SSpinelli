@@ -8,7 +8,7 @@
 
 ### About Me
 
-I'm a passionate full stack web developer with strong experience in front-end technologies. With over 1.5 years of web development experience and a completed 1-year bootcamp at Trybe, I thrive on tackling complex and challenging projects.
+I'm a passionate full stack web developer with strong experience in front-end technologies. I thrive on tackling complex and challenging projects.
 
 🚀 My goal is to continuously enhance my skills and acquire new ones, aiming to become an increasingly experienced and specialized full-stack web developer. I'm always on the lookout for new challenges and opportunities to collaborate with talented teams and develop innovative, scalable solutions.
 
