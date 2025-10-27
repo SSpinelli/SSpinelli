@@ -14,11 +14,11 @@ I'm a passionate full stack web developer with strong experience in front-end te
 
 ### Tech Stack
 
-- **Frontend:** React, Vue.js, Angular, HTML5, CSS3, TypeScript.
+- **Frontend:** React, Vue.js, Angular, HTML5, CSS3.
 - **Backend:** Node.js, Express, NestJS.
 - **Databases:** MySQL, MongoDB.
 - **Other:** Docker, Git, Jest.
-- **Languages:** Python.
+- **Languages:** Typescript, Python.
 
 ### 🌟 Key Skills
 
